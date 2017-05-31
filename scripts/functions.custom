@@ -4,11 +4,11 @@
 
 
 external_domain() {
-	echo "tomaszklim.pl"
+	echo "canguru.be"
 }
 
 internal_domain() {
-	echo "internal"
+	echo "canguru.loc"
 }
 
 ssh_dedicated_key_storage_filename() {
